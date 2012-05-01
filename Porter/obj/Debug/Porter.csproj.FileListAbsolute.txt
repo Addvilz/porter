@@ -1,9 +1,0 @@
-C:\Users\Roberts\Documents\Visual Studio 2008\Projects\Porter\Porter\bin\Debug\Porter.exe
-C:\Users\Roberts\Documents\Visual Studio 2008\Projects\Porter\Porter\bin\Debug\Porter.pdb
-C:\Users\Roberts\Documents\Visual Studio 2008\Projects\Porter\Porter\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Roberts\Documents\Visual Studio 2008\Projects\Porter\Porter\obj\Debug\Porter.PorterControl.resources
-C:\Users\Roberts\Documents\Visual Studio 2008\Projects\Porter\Porter\obj\Debug\Porter.Properties.Resources.resources
-C:\Users\Roberts\Documents\Visual Studio 2008\Projects\Porter\Porter\obj\Debug\Porter.csproj.GenerateResource.Cache
-C:\Users\Roberts\Documents\Visual Studio 2008\Projects\Porter\Porter\obj\Debug\Porter.exe
-C:\Users\Roberts\Documents\Visual Studio 2008\Projects\Porter\Porter\obj\Debug\Porter.pdb
-C:\Users\Roberts\Documents\Visual Studio 2008\Projects\Porter\Porter\obj\Debug\Porter.ConfEditor.resources

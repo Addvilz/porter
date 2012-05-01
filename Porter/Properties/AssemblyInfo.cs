@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Porter Control Center")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Porter")]
+[assembly: AssemblyDescription("Portable WEB development stack")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("LIT Networks")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Porter")]
-[assembly: AssemblyCopyright("Copyright © LIT Networks  2011")]
+[assembly: AssemblyCopyright("Copyright © Matiss Roberts Treinis 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0593f2b3-15b5-4726-9233-c3c93849843a")]
+[assembly: Guid("5cc5ddac-a535-4791-bf7d-d241fda99eb2")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("0.1.2.0")]
-[assembly: AssemblyFileVersion("0.1.2.0")]
+[assembly: AssemblyVersion("0.5.1.5")]
+[assembly: AssemblyFileVersion("0.5.1.5")]
